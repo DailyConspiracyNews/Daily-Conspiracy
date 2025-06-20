@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daily Conspiracy News</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🕵️‍♂️ Daily Conspiracy News</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Trending</a>
+      <a href="#">Archives</a>
+      <a href="#">Submit a Tip</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="news-list">
+      <article>
+        <h2>Is the Moon Hollow? New Evidence Suggests So</h2>
+        <p>June 20, 2025 — A recently leaked NASA audio file claims internal vibrations on the moon...</p>
+        <a href="#">Read More</a>
+      </article>
+
+      <article>
+        <h2>5G Towers: Harmless or Government Surveillance?</h2>
+        <p>Experts debate the potential link between 5G infrastructure and data tracking...</p>
+        <a href="#">Read More</a>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Daily Conspiracy News. Stay curious.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
